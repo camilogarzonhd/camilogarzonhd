@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about geospatial data.
 - 📫 How to reach me: camilo.garzon@mail.escuelaing.edu.co
 - 😄 Pronouns: ??
-- ⚡ Fun fact: I collect sneakers.
+- ⚡ Fun fact: I collect sneakers!
 -->
