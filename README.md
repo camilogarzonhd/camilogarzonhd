@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own business with my shoes and clothing brand.
+- ## 🔭 I’m currently working on my own business with my shoes and clothing brand.
 - 🌱 I’m currently learning data science.
 - 👯 I’m looking to collaborate on projects involving sneakers market and data.
 - 🤔 I’m looking for help with network science.
